@@ -1,5 +1,6 @@
 ---
-![enjoy](https://github.com/VeyselGaziDuran/RandomUserGenerator/assets/81925500/c2ebad72-7053-4934-a5c6-3872ab3c44cc)
+
+![enjoy](https://github.com/VeyselGaziDuran/RandomUserGenerator/assets/81925500/469e6888-2d2f-4977-9595-24709a5027bd)
 
 ---
 
